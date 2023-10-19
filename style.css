@@ -1,0 +1,17 @@
+body {
+  width: 98vw;
+  height: 97vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.btn {
+  color: white;
+  background-color: black;
+  color: white;
+  border: none;
+  border-radius: 15px;
+  font-size: 20px;
+  padding: 20px;
+  cursor: pointer;
+}
